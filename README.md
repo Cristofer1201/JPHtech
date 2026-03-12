@@ -1,2 +1,2 @@
 # Caso_JPHtech
-Estructura de datos - Proyecto Final
+Sistema de kardex para la empresa JPH ELECTRODOMESTICOS
